@@ -9,4 +9,4 @@ tax = (apple + banana + strawberries + celery) * .06
 
 total = tax + (apple + banana + strawberries + celery)
 
-print(f"Your total for today is ${total}, including tax.")
+print(f"Your total for today is ${total:.2f}, including tax.")
