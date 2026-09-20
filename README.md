@@ -1,0 +1,1 @@
+This is the initial README file for the visual-git-tools lab-6 for SWE 325.
